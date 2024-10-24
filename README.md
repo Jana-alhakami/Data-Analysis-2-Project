@@ -18,17 +18,17 @@ Data-Analysis/
 │
 ├── Naive_Bayes/       
 │   ├── NBTask.pdf  # Report for Naive Bayes Classifier for Breast Cancer Diagnosis       
-│   ├── Naive_Bayes.py  # Python script for Naive Bayes implementation       
+│   ├── Naive_Bayes.ipynb  # Python script for Naive Bayes implementation       
 │   └── dataset/  # Dataset for Breast Cancer Diagnosis (if needed for code execution)       
 │
 ├── Market_Basket_Analysis/       
 │   ├── Market_Basket_Analysis_Report.pdf  # Report for Online Retail Dataset Market Basket Analysis       
-│   ├── Market_Basket_Analysis.py  # Python script for Market Basket Analysis       
+│   ├── Market_Basket_Analysis.ipynb  # Python script for Market Basket Analysis       
 │   └── dataset/  # Online Retail dataset (link or storage)       
 │       
 ├── Text_Analysis/       
 │   ├── Text_Analysis_of_Amazon_Fine_Food_Reviews_Dataset.pdf  # Report for Text Analysis of Amazon Fine Food Reviews Dataset       
-│   ├── Text_Analysis.py  # Python script for Text Analysis       
+│   ├── Text_Analysis.ipynb # Python script for Text Analysis       
 │   └── dataset/  # Amazon Fine Food Reviews dataset (link or storage)       
 │       
 ├── Install necessary dependencies  
