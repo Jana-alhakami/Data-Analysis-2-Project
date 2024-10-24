@@ -82,9 +82,6 @@ Each task includes a detailed report that explains the methodology, data preproc
 - **Online Retail Dataset**: Available on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/online+retail).
 - **Amazon Fine Food Reviews Dataset**: Available on [Kaggle](https://www.kaggle.com/snap/amazon-fine-food-reviews).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
